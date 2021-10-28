@@ -10,11 +10,17 @@ intro_actions:
     style: secondary
     type: action
     url: /contact
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  > ## In the face of an existential threat, optimism paired with action is the
+  only rational choice.
+
+
+  At **Salus Terra**, we simplify complex topics related to climate change
+  policy in order to help you understand this emerging and important field.
+  Salus Terra literally means the Health of the Earth. Two thousand years ago,
+  Marcus Tullius Cicero declared, “Salus populi suprema lex esto,” or ‘the
+  health of the people should be the supreme law.’ We take this one step further
+  and assert that the **health of the planet** should be the supreme law.
 more_link_text: Read more
 seo:
   description: The preview of the Ampersand theme

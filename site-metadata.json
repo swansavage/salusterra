@@ -52,7 +52,7 @@
     },
     "header": {
         "has_nav": true,
-        "logo_img": "https://cdn.sanity.io/images/ugp17u07/production/6833fdcd1b1d6c3fb66112acfe550bbcd1a06e36-150x25.svg",
+        "logo_img": "https://cdn.sanity.io/images/ugp17u07/production/b4a729b45f5389d0f15ea3711750ac8a385c52cc-500x92.png",
         "logo_img_alt": "Ampersand Logo",
         "nav_links": [
             {
@@ -85,5 +85,6 @@
     },
     "layout_style": "grid",
     "palette": "green",
-    "title": "Stackbit Ampersand Theme"
+    "title": "Stackbit Ampersand Theme",
+    "domain": "https://salusterra-86a17.netlify.app"
 }
