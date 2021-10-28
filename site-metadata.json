@@ -1,0 +1,89 @@
+{
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "has_social": true,
+        "has_subscribe": true,
+        "social_links": [
+            {
+                "icon_class": "twitter",
+                "label": "Twitter",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://twitter.com/"
+            },
+            {
+                "icon_class": "instagram",
+                "label": "Instagram",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://www.instagram.com/"
+            },
+            {
+                "icon_class": "github",
+                "label": "GitHub",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://github.com/"
+            },
+            {
+                "icon_class": "linkedin",
+                "label": "LinkedIn",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://www.linkedin.com/"
+            },
+            {
+                "icon_class": "dev",
+                "label": "DEV",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://dev.to/"
+            }
+        ],
+        "subscribe_action": "/subscribe-success",
+        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
+        "subscribe_title": "Subscribe for new updates",
+        "type": "footer"
+    },
+    "header": {
+        "has_nav": true,
+        "logo_img": "https://cdn.sanity.io/images/ugp17u07/production/6833fdcd1b1d6c3fb66112acfe550bbcd1a06e36-150x25.svg",
+        "logo_img_alt": "Ampersand Logo",
+        "nav_links": [
+            {
+                "label": "Home",
+                "style": "link",
+                "type": "action",
+                "url": "/"
+            },
+            {
+                "label": "About",
+                "style": "link",
+                "type": "action",
+                "url": "/about"
+            },
+            {
+                "label": "Style Guide",
+                "style": "link",
+                "type": "action",
+                "url": "/style-guide"
+            },
+            {
+                "label": "Contact",
+                "style": "link",
+                "type": "action",
+                "url": "/contact"
+            }
+        ],
+        "title": "Ampersand",
+        "type": "header"
+    },
+    "layout_style": "grid",
+    "palette": "green",
+    "title": "Stackbit Ampersand Theme"
+}
