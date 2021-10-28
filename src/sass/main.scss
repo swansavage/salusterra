@@ -1,12 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@300&display=swap");
 // Font.
 $font: (
   primary: (
-    "Roboto",
-    sans-serif,
+    "Abril Fatface",
+    serif,
   ),
   secondary: (
-    "PT Serif",
-    serif,
+    "Poppins",
+    sans-serif,
   ),
 );
 
@@ -17,7 +18,7 @@ $palette: (
   meta: lighten(#536171, 25%),
   border: lighten(#536171, 52%),
   bg: lighten(#536171, 58%),
-  accent: #cf9339,
+  accent: #be7f4b,
   accent-blue: #108afb,
   accent-black: #333b45,
   accent-red: #f8646c,
