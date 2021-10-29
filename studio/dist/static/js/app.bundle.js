@@ -43,13 +43,13 @@ webpackJsonp([0],[,function(e,t,n){e.exports=n(657)()},function(e,t,n){var r=n(1
             "name": "palette",
             "title": "Color Palette",
             "description": "The color palette used for the site.",
-            "initialValue": "green",
+            "initialValue": "brown",
             "validation": null,
             "options": {
                 "list": [
                     "black",
                     "blue",
-                    "green",
+                    "brown",
                     "red"
                 ]
             }

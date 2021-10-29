@@ -87,7 +87,10 @@
         "type": "header"
     },
     "layout_style": "grid",
+
     "palette": "green",
     "title": "salusterra",
+
+
     "domain": "https://salusterra-86a17.netlify.app"
 }

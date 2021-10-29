@@ -50,10 +50,10 @@
                     "options": [
                         "black",
                         "blue",
-                        "green",
+                        "brown",
                         "red"
                     ],
-                    "default": "green"
+                    "default": "brown"
                 },
                 {
                     "type": "model",
@@ -851,7 +851,7 @@
                 "stackbit_model_type": "config",
                 "title": "Stackbit Ampersand Theme",
                 "layout_style": "grid",
-                "palette": "green",
+                "palette": "brown",
                 "header": {
                     "type": "header",
                     "title": "Ampersand",
