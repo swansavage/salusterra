@@ -30,9 +30,9 @@ seo:
   title: Who We Are
   type: stackbit_page_meta
 stackbit_url_path: /who-we-are
-subtitle: Patrick McHeffey
+subtitle: 'Meet Patrick McHeffey, founder and author.'
 template: page
-title: Who We Are
+title: Who is Salus Terra?
 ---
 Patrick McHeffey earned his Master of Urban Affairs degree from Boston University and his Bachelor of Science in Accounting from Roger Williams University. He is a father, a husband, and a public official in his local village government. He is a self-declared “indefatigable optimist.”
 
