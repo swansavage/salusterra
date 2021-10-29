@@ -10,7 +10,8 @@ seo:
   description: >-
     Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum
     nulla sed consectetur.
-  extra: []
+  extra:
+    - relativeUrl: false
   title: Test Post
   type: stackbit_page_meta
 stackbit_url_path: /posts/test-post

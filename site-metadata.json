@@ -52,8 +52,8 @@
     },
     "header": {
         "has_nav": true,
-        "logo_img": "https://cdn.sanity.io/images/ugp17u07/production/b4a729b45f5389d0f15ea3711750ac8a385c52cc-500x92.png",
-        "logo_img_alt": "Ampersand Logo",
+        "logo_img": "https://cdn.sanity.io/images/ugp17u07/production/15e16e992d469648bf42e2bcc795e6b37a224534-500x123.png",
+        "logo_img_alt": "salusterra logo",
         "nav_links": [
             {
                 "label": "Home",
@@ -63,18 +63,12 @@
             },
             {
                 "icon_class": "dev",
-                "label": "Who We Are",
+                "label": "Author Bio",
                 "new_window": false,
                 "no_follow": false,
                 "style": "link",
                 "type": "action",
                 "url": "/who-we-are"
-            },
-            {
-                "label": "Style Guide",
-                "style": "link",
-                "type": "action",
-                "url": "/style-guide"
             },
             {
                 "label": "Contact",
@@ -83,11 +77,12 @@
                 "url": "/contact"
             }
         ],
-        "title": "Ampersand",
+        "title": "salusterra",
         "type": "header"
     },
     "layout_style": "grid",
     "palette": "green",
-    "title": "salusterra",
-    "domain": "https://salusterra-86a17.netlify.app"
+    "title": "sdfgdsfg",
+    "domain": "salusterra.org",
+    "favicon": "https://cdn.sanity.io/images/ugp17u07/production/e062c7fa92d7eef303dc0e07936e17162a93aa6d-250x250.png"
 }
