@@ -2,10 +2,10 @@
 has_intro: true
 has_more_link: true
 intro_actions:
-  - label: Learn More
+  - label: Meet the author
     style: primary
     type: action
-    url: /about
+    url: /author-bio
   - label: Contact
     style: secondary
     type: action
