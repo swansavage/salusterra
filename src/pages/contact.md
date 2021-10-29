@@ -35,8 +35,6 @@ form_fields:
     type: form_field
 form_id: contactForm
 img_alt: Post in the door mailbox
-img_path: >-
-  https://cdn.sanity.io/images/ugp17u07/production/f79d5c8c4b430a858067e2d20677da42b4c19729-1200x823.jpg
 seo:
   description: This is the contact page
   extra:
@@ -62,5 +60,4 @@ submit_label: Send Message
 template: contact
 title: Get in Touch
 ---
-
-Fill the form below to get in touch with me.
+Fill in the form below to get in touch.
